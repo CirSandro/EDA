@@ -8,11 +8,11 @@ Ce projet à pour objectif de traiter et analyser un jeu de données issu de la 
   │   ├── dataClean.ipynb # Script de pré-traitement des données 
   │   └── df.csv # Jeu de données nettoyé 
   ├── doc
-  │   └── EDA_Cardi_Ferroni_Moyo-Kamdem.pdf
+  │   └── EDA_Cardi_Ferroni_Moyo-Kamdem.pdf # Rapport du projet
   ├── README.md # Documentation du projet 
   └── src 
       ├── Partie1.ipynb # Analyse des motifs fréquents 
-      ├── Partie2.ipynb # Extraction des motifs à forte utilité 
+      ├── partie2.ipynb # Extraction des motifs à forte utilité 
       └── Partie3.ipynb # Découverte et évaluation des groupes d'utilisateurs
 ```
 
