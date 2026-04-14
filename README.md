@@ -12,7 +12,7 @@ Ce projet à pour objectif de traiter et analyser un jeu de données issu de la 
   ├── README.md # Documentation du projet 
   └── src 
       ├── Partie1.ipynb # Analyse des motifs fréquents 
-      ├── partie2.ipynb # Extraction des motifs à forte utilité 
+      ├── Partie2.ipynb # Extraction des motifs à forte utilité 
       └── Partie3.ipynb # Découverte et évaluation des groupes d'utilisateurs
 ```
 
